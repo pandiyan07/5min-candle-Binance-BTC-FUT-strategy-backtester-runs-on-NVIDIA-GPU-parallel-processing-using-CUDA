@@ -1,6 +1,6 @@
 # Binance Futures 5-Minute Strategy Backtester & Data Fetcher
 
-> A high-performance quantitative trading framework featuring real-time Binance data retrieval and ultra-fast NVIDIA GPU-accelerated (CuPy) backtesting across various moving average, gap, RSI, and Trailing Stop-Loss (TSL) strategies.
+> A high-performance quantitative trading framework featuring real-time Binance data retrieval of 5-minute BTCUSDT OHLC datasets and ultra-fast NVIDIA GPU-accelerated (CuPy) backtesting across various moving average, gap, RSI, and Trailing Stop-Loss (TSL) strategies.
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Accelerated by](https://img.shields.io/badge/Accelerated%20by-NVIDIA%20CUDA%20%2F%20CuPy-green.svg)](https://cupy.dev/)
