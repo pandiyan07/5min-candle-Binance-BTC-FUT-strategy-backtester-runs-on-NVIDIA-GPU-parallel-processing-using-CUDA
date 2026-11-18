@@ -1,4 +1,3 @@
-```markdown
 # Binance Futures 5-Minute Strategy Backtester & Data Fetcher
 
 > A high-performance quantitative trading framework featuring real-time Binance data retrieval and ultra-fast NVIDIA GPU-accelerated (CuPy) backtesting across various moving average, gap, RSI, and Trailing Stop-Loss (TSL) strategies.
